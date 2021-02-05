@@ -1,2 +1,6 @@
 # podman-conf
-podman configuration files on Debian 10 in $HOME/.config/containers/*.conf
+podman configuration files 
+
+tested on Debian 10 
+
+configuration forder in $HOME/.config/containers/*.conf
